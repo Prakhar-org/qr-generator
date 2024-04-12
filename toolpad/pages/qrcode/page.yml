@@ -10,7 +10,7 @@ spec:
           props:
             fullWidth: true
             label: Encoded text
-            defaultValue: Hello world!
+            defaultValue: www.mui.com
     - component: PageRow
       name: pageRow1
       children:
